@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1>ISHAN KUMAR</h1>
+    <img src="./ssc photo 2 ishan.jpg"width="200" height="250">>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h2>Summary</h2>
+    <h3>I'm a passionate Computer Science Engineering student with a keen interest in web development</h3>
+    <h2>Education</h2>
+    <h3><ol>
+        <li>Matriculation</li>
+        <li>Higher Secondary</li>
+        <li>Pursing B.Tech in CSE</li>
+    </ol></h3>
+    <h2>Work Experience</h2>
+    <h3>Fresher</h3>
+    <h2>Skills</h2>
+     <h3>   <ul>
+            <li>Core Java</li>
+            <li>OOPS in Java</li>
+            <li>Python</li>
+            <li>MySQL</li>
+        </ul>
+    </h3>
+    <h2>Awards and Certifications</h2>
+    <h3><ol>
+        <li><a href ="https://www.guvi.in/verify-certificate?id=59lJ61146Y0KQ609z3&course=pythonEng">Python</a></li>
+        <li><a href ="https://www.hackerrank.com/profile/ishankr_403">MySQL</a></li>
+        <li><a href ="https://files.codingninjas.in/certi_image51074383692086dd5bd3a35af0ab896775f1ed.jpg">Java</a></li>
+    </ol>
+    </h3>
+    <h2>Other</h2>
+    <h3>
+        <ul>
+            <li><a href ="http://127.0.0.1:3000/3.3 Image Elements/index.html">My Hobbies</a></li>
+            <li><a href ="http://127.0.0.1:3000/3.2 Anchor Elements/index.html">Contact Me </a></li>
+        </ul>
+    </h3>
+    <footer>
+        <small>
+          Copyright © 2024 Ishan Kumar. All Rights Reserved.
+        </small>
+      </footer>
+    
+</body>
+</html>
